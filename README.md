@@ -2,7 +2,7 @@
 
 1.Putty 
 
-2. cat /etc/system-release - cat >> print/output command in linux & then path 
+2. cat /etc/system-release - cat >> concatenate command in linux & then path 
 
 3. symbolic link - like shortcut in windows [will go in deep ]
 
