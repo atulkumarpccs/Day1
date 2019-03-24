@@ -2,11 +2,11 @@
 
 1.Putty 
 
-2. cat /etc/system-release - cat >> print/output command in linux & the path 
+2. cat /etc/system-release - cat >> print/output command in linux & then path 
 
-3. symbolic link - like shortcut in windows 
+3. symbolic link - like shortcut in windows [will go in deep ]
 
-4. rpm  -package manager 
+4. rpm  -package manager [sudo]
 
 5. uname -r  -username 
 
