@@ -1,4 +1,7 @@
-# DAY 1 First Half
+# DAY 1: First Half
+
+### Plursight Link
+<https://app.pluralsight.com/library/courses/lfcs-linux-operation-essentials/table-of-contents>
 
 1.Putty 
 
