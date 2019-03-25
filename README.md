@@ -47,3 +47,11 @@ mount -
 
 chroot -change root 
 
+--------------------------------------
+Day 1 : 2nd half 
+--------------------------------------
+
+https://en.wikipedia.org/wiki/GNU_GRUB
+
+Interpertor vs compiler in terms of [scripting language & python language]
+
