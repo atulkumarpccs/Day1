@@ -55,3 +55,12 @@ https://en.wikipedia.org/wiki/GNU_GRUB
 
 Interpertor vs compiler in terms of [scripting language & python language]
 
+
+
+--------------------------------------
+Day 3 : Bash
+--------------------------------------
+
+https://app.pluralsight.com/library/courses/bash-shell-scripting/table-of-contents
+
+Agenda : Syntex , Cocepts & Hand's on through bash scrpiting in the repository
