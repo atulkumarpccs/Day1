@@ -8,9 +8,9 @@
 * Python integration with other tools
 * Python and cloud networking
 
-————————————————————————————---------------------------
-Python Scripting language 4 days almost 24 hours time
-—————————————————————————————-------------------------
+
+### Python Scripting language 4 days almost 24 hours time
+
 ## Day 1
 
 * Development setup for python  
