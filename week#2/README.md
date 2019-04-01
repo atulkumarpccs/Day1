@@ -57,3 +57,9 @@
 * If possible other lib & package like numpy …& so on through package manager
 * Q and A
 
+## Hands-on 
+
+<https://www.jetbrains.com/pycharm-edu/>
+
+<https://app.pluralsight.com/interactive-courses/play/e3852277-6065-411d-8218-b2945b53b5ca>
+
