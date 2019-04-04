@@ -112,5 +112,9 @@ The primary IDE that is used by people in the Python community would be `PyCharm
 
 <https://github.com/atulkumarpccs/Data-Communication>
 
+# Interective Diagram
+
+<https://interactive.linuxacademy.com/diagrams/SubnettingFundamentals.html>
+
 * Q& A 
 
