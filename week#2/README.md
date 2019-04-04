@@ -97,3 +97,20 @@ The primary IDE that is used by people in the Python community would be `PyCharm
 
 <https://app.pluralsight.com/interactive-courses/play/e3852277-6065-411d-8218-b2945b53b5ca>
 
+# Networking Agenda
+
+* Networking Essentials
+
+<https://app.pluralsight.com/library/courses/comptia-network-plus-networking-concepts/table-of-contents>
+
+* Will explain everything & to watch video is optional. (Show the utility in the system specific to networking only)
+
+
+<https://app.pluralsight.com/library/courses/network-troubleshooting-tools/table-of-contents>
+
+* Optional  , if possible to run these TCP/UDP utility  - just explain show the code base if possible infrastructure  permits run the code base.
+
+<https://github.com/atulkumarpccs/Data-Communication>
+
+* Q& A 
+
