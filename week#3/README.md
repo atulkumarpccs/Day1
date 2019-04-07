@@ -2,10 +2,14 @@
 
 ## Day 1
 
-   1. https://classroom.udacity.com/courses/ud611
-        Topics cover : DevOps Life cycle , DevOps Environment , CI/CD
-https://xebialabs.com/periodic-table-of-devops-tools/
-Hands-on - make  the pipeline having tool of your choice on xebialabs site
+* Topics cover : DevOps Life cycle , DevOps Environment , CI/CD
+
+  <https://classroom.udacity.com/courses/ud611>
+  
+* Hands-on - make  the pipeline having tool of your choice on xebialabs site
+
+   <https://xebialabs.com/periodic-table-of-devops-tools>
+
 
 
 
@@ -20,7 +24,7 @@ Hands-on - make  the pipeline having tool of your choice on xebialabs site
 
 ## Day 3
 
-Hands-on project as per the instruction in the table through udacity.
+* Hands-on project as per the instruction in the table through udacity.
 
 
 ## Day 4 and 5
