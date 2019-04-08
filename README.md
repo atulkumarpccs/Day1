@@ -3,11 +3,9 @@
 ### Plursight Link
 <https://app.pluralsight.com/library/courses/lfcs-linux-operation-essentials/table-of-contents>
 
-1.Putty 
+1.MERGE CONFLICT
 
-2. cat /etc/system-release - cat >> concatenate command in linux & then path 
-
-3. symbolic link - like shortcut in windows [will go in deep ]
+2. MERGE CONFLICT
 
 4. rpm  -package manager [sudo]
 
