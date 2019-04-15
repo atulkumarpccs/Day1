@@ -3,7 +3,7 @@
 # DAY 1: First Half
 
 ### Plursight Link
-<https://app.pluralsight.com/library/courses/lfcs-linux-operation-essentials/table-of-contents>
+:radio_button: <https://app.pluralsight.com/library/courses/lfcs-linux-operation-essentials/table-of-contents>
 
 1.Putty 
 
@@ -53,7 +53,7 @@ chroot -change root
 Day 1 : 2nd half 
 --------------------------------------
 
-https://en.wikipedia.org/wiki/GNU_GRUB
+:radio_button: https://en.wikipedia.org/wiki/GNU_GRUB
 
 Interpertor vs compiler in terms of [scripting language & python language]
 
@@ -63,6 +63,6 @@ Interpertor vs compiler in terms of [scripting language & python language]
 Day 3 : Bash
 --------------------------------------
 
-https://app.pluralsight.com/library/courses/bash-shell-scripting/table-of-contents
+:radio_button: https://app.pluralsight.com/library/courses/bash-shell-scripting/table-of-contents
 
 Agenda : Syntex , Cocepts & Hand's on through bash scrpiting in the repository
