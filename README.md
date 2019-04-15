@@ -1,3 +1,5 @@
+:books::notebook_with_decorative_cover::pencil:
+
 # DAY 1: First Half
 
 ### Plursight Link
