@@ -1,4 +1,6 @@
-:books::notebook_with_decorative_cover::pencil:
+:construction::books::notebook_with_decorative_cover::pencil: 
+:on::soon:  :watch: :loudspeaker:
+:boom: :fire:
 
 # DAY 1: First Half
 
