@@ -35,7 +35,7 @@
 
   * Please follow the steps to start the setup as per below screeshot 
 
-<img src="Resource/Microsoft_Labs.PNG" width="480" alt="grayscale image" />
+<img src="Resource/Microsoft_Labs.PNG" width="600" alt="grayscale image" />
 
 
  
