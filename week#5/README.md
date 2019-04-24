@@ -29,9 +29,11 @@
  
  # Self Paced Labs for windows 2016
  
-<https://www.microsoft.com/handsonlabs/SelfPacedLabs#keywords=windows%20server%202016&page=1&sort=Newest>
+ * Link
+ 
+   <https://www.microsoft.com/handsonlabs/SelfPacedLabs#keywords=windows%20server%202016&page=1&sort=Newest>
 
-* Please follow the steps to start the setup as per below screeshot 
+  * Please follow the steps to start the setup as per below screeshot 
 
 <img src="Resource/Microsoft_Labs.PNG" width="480" alt="grayscale image" />
 
