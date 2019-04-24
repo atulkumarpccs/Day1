@@ -33,7 +33,7 @@
  
    <https://www.microsoft.com/handsonlabs/SelfPacedLabs#keywords=windows%20server%202016&page=1&sort=Newest>
 
-  * Please follow the steps to start the setup as per below screeshot 
+  * Please follow the steps to start the setup as per below screenshot 
 
 <img src="Resource/Microsoft_Labs.PNG" width="600" alt="grayscale image" />
 
