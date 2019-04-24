@@ -27,6 +27,10 @@
  
  ## Additional topics and Links
  
+ # Self Paced Labs for windows 2016
+ 
+<https://www.microsoft.com/handsonlabs/SelfPacedLabs#keywords=windows%20server%202016&page=1&sort=Newest>
+ 
 
 
         
